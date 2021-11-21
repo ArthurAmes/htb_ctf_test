@@ -1,5 +1,1 @@
-DX
-DY
-D-
-DCaaaaaaa"><svg onload='alert(1)'></svg></svg>
-D+
+A write annotation <img src=x onerror="console.log(1)" />
